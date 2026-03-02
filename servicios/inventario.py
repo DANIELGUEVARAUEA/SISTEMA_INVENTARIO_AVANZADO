@@ -58,7 +58,7 @@ class Inventario:
     # ==============================
     def mostrar_todos(self):
         if not self.productos:
-            print("📭 Inventario vacío.")
+            print("Inventario vacío.")
             return
 
         for p in self.productos.values():

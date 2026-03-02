@@ -1,4 +1,4 @@
-# Archivo principal del sistema
+# Archivo principal del sistema inventario
 # Aquí se ejecuta el menú
 
 from modelos.producto import Producto
